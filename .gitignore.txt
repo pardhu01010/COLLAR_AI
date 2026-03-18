@@ -25,7 +25,7 @@ memory/*.db
 memory/*.sqlite
 memory/*.json
 *.log
-
+.vscode
 # Models / big artifacts (if ever present)
 models/*.bin
 *.pt
